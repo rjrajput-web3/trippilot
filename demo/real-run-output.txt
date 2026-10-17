@@ -1,0 +1,44 @@
+=== AGENT STEPS ===
+- Located Tokyo, Japan (Asia/Tokyo).
+- Pulled 4-day forecast for your dates.
+- Converted budget: $1,500 ≈ 237,030 JPY.
+- Generated 4-day itinerary across 2 themes.
+- Saved as trip #6 — ask me for it anytime.
+=== BUDGET ===
+USD: 1500 | JPY : 237030 | FX date: 2026-10-16
+=== ITINERARY ===
+Day 1 2026-10-18 | Food & drink
+   morning: Breakfast at a local market; taste the regional specialty
+   afternoon: Food-tour style lunch crawl through the old quarter
+   evening: Dinner at a well-reviewed local restaurant; try the chef's tasting men
+   weather: Forecast: 12.1–22.2°C.  | rain_adapted: False
+Day 2 2026-10-19 | Culture & history
+   morning: Visit the top museum / heritage site right at opening time
+   afternoon: Guided walking tour of the historic district
+   evening: Evening cultural show or performance, if available
+   weather: Forecast: 14.4–25.6°C.  | rain_adapted: False
+Day 3 2026-10-20 | Food & drink
+   morning: Breakfast at a local market; taste the regional specialty
+   afternoon: Food-tour style lunch crawl through the old quarter
+   evening: Dinner at a well-reviewed local restaurant; try the chef's tasting men
+   weather: Forecast: 20.9–29.3°C.  | rain_adapted: False
+Day 4 2026-10-21 | Culture & history
+   morning: Visit the top museum / heritage site right at opening time
+   afternoon: Guided walking tour of the historic district
+   evening: Evening cultural show or performance, if available
+   weather: Forecast: 21.4–29.3°C.  | rain_adapted: False
+=== PACKING CHECKLIST ===
+- Passport / ID + printed hotel & transport bookings
+- Phone charger, power bank, universal travel adapter
+- Basic medicines + any prescriptions
+- Sunscreen and sunglasses
+- Modest clothing for temples / religious sites
+- Local currency or card that works in Tokyo
+=== DIGEST ("how is my Tokyo trip looking?") ===
+destination : Tokyo
+dates : 2026-10-18 → 2026-10-21
+budget : $1,500 USD ≈ 237,030 JPY
+days_planned : 4
+rain_adapted_days : 0
+notes_count : 1
+latest_note : {'at': '2026-10-16T23:10:50+00:00', 'text': 'Flight AI-302 booked, aisle seat'}
